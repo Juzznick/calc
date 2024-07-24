@@ -27,14 +27,14 @@
     cursor: pointer;
 }
 #backspace {
-    background-color: rgb(237, 89, 30);
+    background-color: rgb(30, 113, 237);
     color: white;
 }
 #res {
     padding: 10px;
 }
 #clear {
-    background-color: rgb(237, 89, 30);
+    background-color: rgb(30, 113, 237);
     color: white;
 }
 form #output {
