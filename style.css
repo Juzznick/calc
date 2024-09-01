@@ -18,7 +18,7 @@ body{
     background: #1f1f1f;
     padding: 20px;
     border-radius: 10px;
-    border: solid .2rem white;
+    border: solid .2rem red;
 }
 #content form input {
     border: 0;
